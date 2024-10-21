@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: OOMOOL CREATIVE
 
 # Your name to show in the footer
-author: Some Person
+author: HeeJong Kang
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "App Developer / Indie Hacker"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
